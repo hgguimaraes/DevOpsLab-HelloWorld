@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: $hehoku_api_key
+    secure: hehoku_api_key
   app: lab-higor-devops
